@@ -1,0 +1,29 @@
+/* utility-first */
+.grid {
+    display: grid;
+}
+
+.grid-flow-col {
+    grid-auto-flow: column;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.text-red{
+    color: var(--red);
+}
+
+.subtitle{
+    font: var(--subtitle);
+    color:--gray-500;
+}
+
+.title-lg{
+    font: var(--title-lg);
+    color:--gray-600;
+}
+
+.text-sm{
+    font: var(--text-sm);
+    color:--gray-400;
+}
