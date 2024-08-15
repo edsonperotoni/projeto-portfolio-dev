@@ -2,6 +2,7 @@
   background-image: url(../assets/images/Background_Intro.png);
   background-size: cover;
   align-items: center;
+  padding-bottom: 60px;
 
   img {
     height: 32px;
@@ -29,13 +30,13 @@
     margin-bottom: 56px;
 
     #user {
-      display:         flex;
+      display: flex;
       justify-content: center;
       align-items: center;
       width: 96px;
       height: 96px;
       padding: 0;
-    
+
 
       img:nth-child(1) {
         width: 96px;
@@ -56,6 +57,7 @@
         object-fit: cover;
       }
     }
+
     img:nth-child(2) {
       position: absolute;
       right: 0;

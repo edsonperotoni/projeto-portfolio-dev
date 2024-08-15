@@ -16,7 +16,7 @@
     --gray-400: #878EA1;
     --gray-500: #C0C4CE;
     --gray-600: #E2E4E9;
-    --bg-color: #29292E;
+    --bg-color: #292C34;
   
 
     --font-family-asap: 'Asap', sans-serif;
@@ -50,4 +50,5 @@ img {
     margin-inline: auto;
     display: flex;
     flex-direction: column;
+    background-color: var(--gray-200);
 }
