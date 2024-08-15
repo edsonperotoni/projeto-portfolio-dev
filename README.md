@@ -17,4 +17,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Nesse projeto iremos desenvolver uma página de portfólio para dev, pondo em prática o aprendizdo com o Grid!
 
 ##Preview
-<img src="preview.png">
+<img src="assets/images/preview.png">
