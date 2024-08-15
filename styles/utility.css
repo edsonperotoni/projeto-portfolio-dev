@@ -13,6 +13,10 @@
     color: var(--red);
 }
 
+.text-purple{
+    color: var(--purple);
+}
+
 .subtitle{
     font: var(--subtitle);
     color:--gray-500;
@@ -23,7 +27,18 @@
     color:--gray-600;
 }
 
+.title-md{
+    font: var(--title-md);
+    color:--gray-600;
+}
+
 .text-sm{
     font: var(--text-sm);
     color:--gray-400;
 }
+
+.text-md{
+    font: var(--text-md);
+    color:--gray-500;
+}
+
